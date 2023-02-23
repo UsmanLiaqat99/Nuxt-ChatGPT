@@ -1,4 +1,4 @@
-# Nuxt-Chat
+# Nuxt-ChatGPT
 
 ## Build Setup
 
