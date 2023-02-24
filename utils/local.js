@@ -1,1 +1,1 @@
-export const CHATGPT_API_KEY = "Your API Key";
+export const CHATGPT_API_KEY = "YOUR_API_KEY_HERE";

@@ -28,6 +28,7 @@
           v-model="question"
           type="text"
           placeholder="Type your message here..."
+          @keypress.enter="sendMessage"
         />
         <button @click="sendMessage">Send</button>
       </div>
